@@ -8,6 +8,11 @@ where $x\in [-10,10]$ and $t\in[0,10]$
 
 Run `FODMD.m` will generate the time response at $x = −10$, spatiotemporal dynamics of the real model and reconstructed models, and the spatial modes captured by *FO-DMD*.
 
+To run the script, some functions are required:
+
+1. [Mittag-Leffler function](https://www.mathworks.com/matlabcentral/fileexchange/8738-mittag-leffler-function?s_tid=srchtitle)
+2. [Matrix Mittag-Leffler function](https://www.mathworks.com/matlabcentral/fileexchange/66272-mittag-leffler-function-with-matrix-arguments?s_tid=srchtitle)
+
 For citation:
 
 ```BibTex 
